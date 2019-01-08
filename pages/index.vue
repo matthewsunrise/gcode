@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-      <h1 class="title">gangstercode</h1>
+      <h1 class="title">Matthew McKey</h1>
       <h2 class="subtitle">My bedazzling Nuxt.js project</h2>
       <button
         class="border border-grey-light p-2"
